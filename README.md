@@ -3,7 +3,7 @@ This dashboard provides a detailed analysis of retail sales performance across B
 
 # Project Overview
 
-. The dataset includes the following types of information:
+The dataset includes the following types of information:
 
 Product categories such as Fruits and Vegetables, Frozen Foods, Health and Hygiene, and Canned items.
 
