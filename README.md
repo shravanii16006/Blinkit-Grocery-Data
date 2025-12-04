@@ -14,3 +14,17 @@ Item-level details such as weight, visibility, rating, and item identifier.
 Sales data across multiple outlets.
 
 The dashboard allows users to interact with the dataset and explore how item characteristics and outlet features affect overall sales.
+
+# Key Insights
+
+The dashboard highlights:
+
+Highest and lowest selling product categories.
+
+Variation in sales across Tier 1, Tier 2, and Tier 3 locations.
+
+Relationship between item visibility and sales performance.
+
+Sales contribution based on outlet size and establishment year.
+
+Distribution of product ratings across categories.
