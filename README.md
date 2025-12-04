@@ -31,6 +31,6 @@ Distribution of product ratings across categories.
 
 | File Name                | Description                  |
 | ------------------------ | ---------------------------- |
-| `Blinkit_Dashboard.pbix` |      |
+| `Blinkit_Dashboard.pbix` |<a href="https://github.com/shravanii16006/Blinkit-Grocery-Data/blob/main/BLINKIT.pbix"> PowerBi File </a>|
 
 
