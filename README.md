@@ -28,3 +28,9 @@ Relationship between item visibility and sales performance.
 Sales contribution based on outlet size and establishment year.
 
 Distribution of product ratings across categories.
+
+| File Name                | Description                  |
+| ------------------------ | ---------------------------- |
+| `Blinkit_Dashboard.pbix` |      |
+
+
